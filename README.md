@@ -100,7 +100,7 @@
 - uname: informações do kernel do sistema
         uname -r: versão em específica do kernel
 
-**DICAS EXTRA:**
+**DICAS EXTRA:**  
 usuário normal: ~  
 usuário root: #  
 para ter um manual para cada comando, basta escrever **man nomeDoComando** ou **nomeDoComando --help**  
