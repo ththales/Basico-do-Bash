@@ -1,4 +1,4 @@
-# Lista de Comandos básicos Linux
+# Lista de Comandos básicos terminal
 - clear: limpa o terminal
 
 - ctrl + l: limpa o terminal
