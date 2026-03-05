@@ -101,11 +101,11 @@
         uname -r: versão em específica do kernel
 
 **DICAS EXTRA:**
-usuário normal: ~
-usuário root: #
-para ter um manual para cada comando, basta escrever **man nomeDoComando** ou **nomeDoComando --help**
-apertar tab autocompleta as informações sugeridas
-'Q' fecha abas específicas do terminal
-CTRL + C cancela qualquer comando do terminal
-sudo apt install htop: instala o comando htop para monitorar recursos do sistema
-sudo apt install ncdu: instala o comando ncdu para gerenciar o disco
+usuário normal: ~  
+usuário root: #  
+para ter um manual para cada comando, basta escrever **man nomeDoComando** ou **nomeDoComando --help**  
+apertar tab autocompleta as informações sugeridas  
+'Q' fecha abas específicas do terminal  
+CTRL + C cancela qualquer comando do terminal  
+sudo apt install htop: instala o comando htop para monitorar recursos do sistema  
+sudo apt install ncdu: instala o comando ncdu para gerenciar o disco  
